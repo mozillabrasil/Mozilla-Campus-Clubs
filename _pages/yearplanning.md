@@ -5,9 +5,9 @@ permalink: /yearplanning/
 ref: resources
 ---
 
-Creating a Club plan is a great way to set-up a framework and plan that will help guide your Club through the year.  It’s also exciting because it fully illuminates just how much your Club can accomplish in one year!
+Criando um plano de clube é uma ótima maneira de organizar um framework e plano que irá ajudar a orientar o seu clube durante o ano. Também é emocionante porque ilumina totalmente o quanto seu clube pode realizar em um ano!
 
-If successful, you will create a document that gives direction and clarity to everyone in your Club on what the Club is aiming towards generally and in the coming year. Your year plan will be a document that is referenced widely when planning activities and when you look back at the accomplishments of your Club at the end of the year.
+Se for bem sucedido, você vai criar um documento que dá direção e clareza para todos em seu clube sobre o que o clube está seguindo no sentido geral, e no ano que vem. Seu plano anual será um documento que é referenciado amplamente quando as atividades de planejamento e quando você olha para trás as realizações do seu clube no final do ano.
 
 # 1. Pitfalls
 
