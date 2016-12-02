@@ -15,7 +15,7 @@ Se for bem sucedido, você vai criar um documento que dá direção e clareza pa
 
 **Equipe dividida**
 
-Se este for o primeiro ano do seu Club você provavelmente não tem uma equipe ainda, então pode ignorar isso. Para as pessoas no seu segundo ano, uma equipe dividida acontece quando os Capitães do Club trabalham sozinhos no planejamento anual e criam um documento que os membros não aprovam ou não tem conhecimento sobre.
+Se este for o primeiro ano do seu Clube você provavelmente não tem uma equipe ainda, então pode ignorar isso. Para as pessoas no seu segundo ano, uma equipe dividida acontece quando os Capitães de Clube trabalham sozinhos no planejamento anual e criam um documento que os membros não aprovam ou não tem conhecimento sobre.
 
 **Sem acompanhamento**
 
@@ -23,7 +23,7 @@ Quando um bom planejamento é criado mas é esquecido tão logo ele tenha termin
 
 **Término tarde demais**
 
-Você sabe que um plano anual terminou muito tarde quando o término aconteceu dois ou três meses depois do que deveria acontecer. Os primeiros meses do ano são extremamente importantes e se um planejamento acabou muito tarde é pouco útil. **_Um planejamento anual deve acabar nos primeiros dois meses do início do Clube_** assim pode ser usado para maximizar o tempo disponível para o Club realizar as atividades baseado nele.
+Você sabe que um plano anual terminou muito tarde quando o término aconteceu dois ou três meses depois do que deveria acontecer. Os primeiros meses do ano são extremamente importantes e se um planejamento acabou muito tarde é pouco útil. **_Um planejamento anual deve acabar nos primeiros dois meses do início do Clube_** assim pode ser usado para maximizar o tempo disponível para o Clube realizar as atividades baseado nele.
 
 Com os pontos acima em mente, vamos dar uma olhada no processo atual.
 
@@ -67,7 +67,7 @@ Você deve se encontrar com o seu Clube pelo menos uma vez por semestre para ter
 
 ## A.   Declaração da Missão
 
-Essa é a parte mais legal do seu planejamento, a indicação de que você terá as pessoas certas para se inscrever quando eles ouvirem ou lerem sobre o seu Clube. Deve capturar a essencia do quê seu Clube tem como objetivo fazer que soe como uma estratégia. Lance a pergunta para o seu Cluibe "sobre todas as coisas, o que desejamos alcançar?"
+Essa é a parte mais legal do seu planejamento, a indicação de que você terá as pessoas certas para se inscrever quando eles ouvirem ou lerem sobre o seu Clube. Deve capturar a essencia do quê seu Clube tem como objetivo fazer que soe como uma estratégia. Lance a pergunta para o seu Clube "sobre todas as coisas, o que desejamos alcançar?"
 
 Você deve ler as [atividades](https://campus.mozilla.community/activities/) recomendadas para ter uma ideia dos tipos de ferramentas que você tem para alcançar suas metas, e quais opções você vai utilizar.
 
