@@ -1,6 +1,6 @@
 ---
 layout: resource
-title:  "Year Planning Guidance"
+title:  "Guia de Planejamento Anual"
 permalink: /yearplanning/
 ref: resources
 ---
@@ -9,80 +9,80 @@ Criando um plano de clube é uma ótima maneira de organizar um framework e plan
 
 Se for bem sucedido, você vai criar um documento que dá direção e clareza para todos em seu clube sobre o que o clube está seguindo no sentido geral, e no ano que vem. Seu plano anual será um documento que é referenciado amplamente quando as atividades de planejamento e quando você olha para trás as realizações do seu clube no final do ano.
 
-# 1. Pitfalls
+# 1. Imprevistos
 
-### **Most Common Problems**
+### **Problemas Comuns**
 
-**No Team Buy-in**
+**Equipe dividida**
 
-If this is your Club’s first year you probably don’t have a team yet, so can ignore this. For people in their second year, no team buy-in happens when the Club Captain(s) works alone on the year plan and creates a document that the members don’t support or have ownership over.  
+Se este for o primeiro ano do seu Club você provavelmente não tem uma equipe ainda, então pode ignorar isso. Para as pessoas no seu segundo ano, uma equipe dividida acontece quando os Capitães do Club trabalham sozinhos no planejamento anual e criam um documento que os membros não aprovam ou não tem conhecimento sobre.
 
-**No Follow-up**
+**Sem acompanhamento**
 
-No follow-up is when a good year plan is created but is buried as soon as it is finished, and when the plan doesn’t get referenced throughout the year.
+Quando um bom planejamento é criado mas é esquecido tão logo ele tenha terminado, e quando o planejamento não é referenciado durante o ano.
 
-**Finished Too Late**
+**Término tarde demais**
 
-You know a year plan is finished too late when it’s finished two or three months after it should be. The first few months of the year are incredibly important and if a year plan is finished too late it is much less useful. **_A year plan should be finished within the first 2 months of the Club’s initiation_** so that it can be used to maximize the time available for Clubs to take action based on it.
+Você sabe que um plano anual terminou muito tarde quando o término aconteceu dois ou três meses depois do que deveria acontecer. Os primeiros meses do ano são extremamente importantes e se um planejamento acabou muito tarde é pouco útil. **_Um planejamento anual deve acabar nos primeiros dois meses do início do Clube_** assim pode ser usado para maximizar o tempo disponível para o Club realizar as atividades baseado nele.
 
-With the above points in mind, let’s look at the actual process.
+Com os pontos acima em mente, vamos dar uma olhada no processo atual.
 
-# 2. Year planning process
+# 2. Processo de planejamento anual
 
-As outlined above, the process for completing a year plan and making it the guiding document for your Club is as important as the content of the document itself.
+Como foi explicado acima, o processo para completar um planejamento anual e fazê-lo um documento guia para seu Clube é tão importante quando o documento por si só.
 
-## A.   Stakeholders
+## A.   Interessados
 
-Identify the key stakeholders in your Club (executives, staff advisor, actively involved members etc.), what role you would like them to have in the year planning process, and what role they expect to have in the year planning process.
+Identifique os principais interessados no seu Clube (diretores, assessores, membros ativos envolvidos, etc.), que papéis você gostaria que eles ocupassem no processo de planejamento anual, e quais papéis eles esperam ter no processo de planejamento anual.
 
-## B.   Process buy-in
+## B.   Apoio no Processo
 
-Getting complete buy-in to the process of completing the year plan, from all of the stakeholders you identified, is equally important to getting buy-in to the final content of the year plan. This consideration is perhaps most often forgotten and can be a source of tension.
+Ter apoio total da equipe para completar o processo de planejamento anual, de todas os interessados que você identificou, é tão importante quando ter apoio para a decisão final do planejamento anual. Essas considerações são talvez as mais frequentementes esquecidas e podem ser motivos de tensão.
 
-## C.   Content creation
+## C.   Criação de conteúdo
 
-A process for content creation depends on how many people you have involved in the process. If it’s just a small group, it can be fairly informal. If your Club is larger planning might look something like:
+Um processo para criação de conteúdo depende principalmente de quantas pessoas você tem envolvidas. Se for um pequeno grupo, pode ser relativamente informal. Se seu Clube for grande, o planejamento pode ser algo como:
 
-A process for content creation could look something like:
+Um processo para criação de conteúdo pode ser algo assim:
 
 <ol>
-<li>Club Captains structure a brainstorming session on overall focus, goals, objectives and activities – share with Regional Coordinator</li>
-<li>Club Captains summarize the results of the brainstorming session for the executive/members</li>
-<li>Club Captains complete a first draft of the goals, circulate to the rest of the executive (and/or members - depending on the size of the club) and structures a review session. Overall goals may be revised iteratively throughout the process.</li>
-<li>Review of draft year plan document with entire executive team/membership</li>
-<li>Final draft of year plan document shared with Regional Coordinator before presentation to general membership and any other stakeholders</li>
+<li>Capitães de Clube estruturam uma sessão de lançamento de ideias (brainstorming) com foco geral, metas, objetivos e atividades - compartilhe com o Coordenadore Regional</li>
+<li>Capitãos de Clube resumem os resultados da sessão de brainstorming para o time executivo/membros</li>
+<li>Capitãos do Clube finalizam um primeiro rascunho das metas, repassando para o time executivo (ou os membros - dependendo do tamanho do Clube) e estrutura uma sessão de revisão. Geralmente as metas podem ser revisadas interativamente durante o processo.</li>
+<li>Revisão do rascunho do documento de planejamento anual com o time executivo inteiro/membros</li>
+<li>Versão final do documento de planejamento anual é compartilhado com o Coordenador Regional antes de apresentá-lo para os membros em geral e qualquer outro interessado</li>
 </ol>
 
-Remember to set dates and timelines for the process, especially if you’re working with a larger group!
+Lembre-se de definir datas e prazos para o processo, especialmente se você estiver trabalhando com um grupo grande de pessoas!
 
-## D.  Communication of year plan (making it relevant day-to-day)
+## D.   Comunicação do planejamento anual (tonando-o relevante no dia-a-dia)
 
-The planning process does not end with the completion of this document. As an open source Club we encourage you to post your mission and goals everywhere! Your website, social sites, emails, and posters. This will also help you connect with people who share your passion and vision for the web.
+O processo de planejamento não termina quando este documento é finalizado. Como um Clube aberto, nós o encorajamos a divulgar sua missão e metas em todos os lugares! Seu site, mídias sociais, e-mail e pôsteres. Isso também o ajudará a ter contato com pessoas que compartilham da mesma paixão e visão para a Web que você.
 
-## F.   Follow-up
+## F.   Acompanhamento
 
-You should check-in with your Club’s work at least once a semester to make sure you’re still adhering to your mission and working towards your goals.  
+Você deve se encontrar com o seu Clube pelo menos uma vez por semestre para ter certeza que vocês continuam aderindo às suas missões e estão trabalhando em direção às metas.
 
-# 3. Year plan content
+# 3. Conteúdo do planejamento anual
 
-## A.   Mission Statement
+## A.   Declaração da Missão
 
-This is the sexiest part of your Club plan, the statement that will get the right people giddy to sign-up when they hear or read it. It should capture what your club aims to do so well that it sounds like a strategy. Ask your Club the question “above all else, what do we hope to accomplish.”
+Essa é a parte mais legal do seu planejamento, a indicação de que você terá as pessoas certas para se inscrever quando eles ouvirem ou lerem sobre o seu Clube. Deve capturar a essencia do quê seu Clube tem como objetivo fazer que soe como uma estratégia. Lance a pergunta para o seu Cluibe "sobre todas as coisas, o que desejamos alcançar?"
 
-You should read the recommended [activities](https://campus.mozilla.community/activities/) to get an idea of the kinds of tools you have for achieving your goals, and what kinds of options you might want to pursue. 
+Você deve ler as [atividades](https://campus.mozilla.community/activities/) recomendadas para ter uma ideia dos tipos de ferramentas que você tem para alcançar suas metas, e quais opções você vai utilizar.
 
-## B.   Goals
+## B.   Metas
 
-Goals are directional in nature and help guide the writing of specific objectives that when completed, lead to the goals being achieved. Most of the goals should align with the key programs and functions of your Club listed below: 
+Metas são por naturezas direções e ajudam a guiar na escrita dos objetivos específicos que quando completados, levam à realização do objetivo. A maioria das metas devem ser alinhadas com os principais programas e funções do seu Clube, como os listados abaixo:
+**Aprendizagem dos participantes** - Essa é sua meta ao criar um grupo onde seus membros estão sempre aprendendo, continuando engajados e desenvolvendo constantemente habilidades durante o ano.
 
-**Member Education** - These are your goals about creating a group where your members are actively learning, continuously engaged, and consistently growing their skills throughout the year.
+**Participação dos membros** - Esse é seu objetivo ao tentar fomentar uma participação ativa de pessoas engajadas. Recrutando novos membros, mantendo os já existentes e tendo certeza de que você tem a cultura de um Clube saudável e que todos são parte disso.
 
-**Membership Building** - These are your goals around building a strong membership of engaged people. Recruiting new members, retaining existing members, and making sure you have a healthy Club culture are all part of this.
+**Time executivo (opcional)** - Esse é um dos objetivos ao recrutar, conservando e mantendo uma equipe forte e com liderança.
 
-**Executive Building (optional)**- These are your goals around recruiting, retaining, and maintaining a strong leadership team.
+**Construir a Web** - O que seu Clube tem como objetivo nesse ano é garantir que a Web permaneça um recurso público global, aberta e acessível para todos. Veja o site das [atividades](https://campus.mozilla.community/activities/) para lhe inspirar.
 
-**Build The Web**- What will your club aim to accomplish this year to ensure that the web remains a public global resource, open and accesible for all. See the [activities page](https://campus.mozilla.community/activities/) for inspiration.
 
-## Get Started
+## Mãos à obra!
 
-Build your Club's Year Plan now using this <a href="https://docs.google.com/a/mozilla.com/forms/d/e/1FAIpQLSdKutKTmBhzOlNj-5NFC8noj3RisPsH50fvHKjTFZL3aDtAmQ/viewform"> Club Captains Year Planning Template</a> or this <a href="https://docs.google.com/a/mozilla.com/forms/d/e/1FAIpQLSdeZBUq8wJMIbTn3uvwb0VTF9ZHdFEwA1dxwGlFBHc5v5JNrg/viewform">Regional Coordinator Year Planning Template</a>.
+Construa o planejamento anual do seu Clube agora, utilizando esse <a href="https://docs.google.com/a/mozilla.com/forms/d/e/1FAIpQLSdKutKTmBhzOlNj-5NFC8noj3RisPsH50fvHKjTFZL3aDtAmQ/viewform">Modelo de Planejamento Anual para Capitães de Clube</a> ou esse <a href="https://docs.google.com/a/mozilla.com/forms/d/e/1FAIpQLSdeZBUq8wJMIbTn3uvwb0VTF9ZHdFEwA1dxwGlFBHc5v5JNrg/viewform">Modelo para Planejamento Anual para Coordenador Regional</a>.
